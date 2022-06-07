@@ -1,0 +1,9 @@
+Today, I have installed aws-cli
+Configured them using "aws configure" and retrieved my access key and secret keys from IAM user Security Credentials section 
+(These keys must be kept secret, when uploading the data in internet, please remove any keys from the code/section and upload)
+As I'm already having Visual Studio, I'm not gonna install that again.
+Now, it's time to install "aws cloudformation linter". A linter will proactively detects basic errors in cloudformation - "pip install cfn-lint"
+Already installed GIT.
+Ok, now I may need to clone the tutorial repo, from "git clone https://github.com/aws-samples/cfn101-workshop"
+Now to move forward to the Basics part of cf, we need to cross-check the default VPC in our region
+All set-up is done.
