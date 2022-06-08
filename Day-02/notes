@@ -1,0 +1,6 @@
+Today, I'm gonna do the ""Basic"" part of the cf.
+We will build an initial template.
+We will follow YAML format in cf
+First I will create a simple S3 bucket
+Didn't understood exactly the templatestructure, as where to use "-" and where to give indentations.
+But created the S3 bucket with the template, enabled Versioning and enabled ServerSide Encryption.
